@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898365726270",
+    "firebase_url": "https://neartome-1dde8.firebaseio.com",
+    "project_id": "neartome-1dde8",
+    "storage_bucket": "neartome-1dde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898365726270:android:e2b14c657c791a51",
+        "android_client_info": {
+          "package_name": "app.example.www.neartome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898365726270-l0kvshkmb9re5el32b8qo6qkdeh6usab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.example.www.neartome",
+            "certificate_hash": "e93aa83b198fd6c723d8a2cf0059cc916506ccf7"
+          }
+        },
+        {
+          "client_id": "898365726270-0griltb616p45beu4tgcjrrov2p8b2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCSYHmO_i5Yqql3QUpR_TqzkboZTi3CE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898365726270-0griltb616p45beu4tgcjrrov2p8b2mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
